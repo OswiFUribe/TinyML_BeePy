@@ -20,7 +20,7 @@ En este repositorio encontrarás todo lo relacionado al taller de "*TinyML - El 
 
 A lo largo del taller se habla sobre el entorno de desarrollo *Arduino IDE*, el cuál es especialmente proporcionado por Arduino para la comunicación de estos y más placas de desarrollo, es de gran importancia que los participantes descarguen e instalen la última versión disponible de este entorno para la correcta implementación de los códigos. 
 
-El link de descarga se encuentra a continuación: [Arduino%20IDE](https://www.arduino.cc/en/software).
+El link de descarga se encuentra a continuación: [Arduino IDE](https://www.arduino.cc/en/software).
 
 Dentro del entorno de desarrollo uno tiene la facilidad de descargar e instalas bibliotecas para un manejo más secillo de ciertos elementos, para este taller se utiliza la librería *[Harvard_TinyMLx](https://github.com/tinyMLx/arduino-library)* cuya instalación se realiza del mismo IDE y se puede seguir la siguiente [guía](https://docs.arduino.cc/software/ide-v1/tutorials/installing-libraries).
 
