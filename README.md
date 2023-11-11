@@ -30,6 +30,6 @@ Junto con el entorno de desarrollo de Arduino, el taller necesita un entorno en 
 
 - El entorno de desarrollo [Anaconda](https://www.anaconda.com/download)
 
-- El entorno de programación [Visual%20Studio%20Code](https://code.visualstudio.com/download)
+- El entorno de programación [Visual Studio Code](https://code.visualstudio.com/download)
 
 
