@@ -48,3 +48,11 @@ Tiny Machine Learning con Tensor Flow Lite en Arduino y microcontroladores de ba
 - [TinyML Cookbook](https://www.packtpub.com/product/tinyml-cookbook/9781801814973):
 [Gian Marco Iodice](https://www.linkedin.com/in/gian-marco-iodice-3183a9a1/)
 Combina la inteligencia artificial y dispositivos de ultra baja potencia para hacer el mundo más inteligente.
+
+## Otros recursos:
+
+- [BioAmp EXG Pill](https://github.com/upsidedownlabs/BioAmp-EXG-Pill):
+creación e implementación de una placa para adquisición de BioImpedancia.
+
+- [Motor de Machine Learning con MicroPython](https://github.com/emlearn/emlearn-micropython):
+Intrgración de Micropython con modelos de Machine Learning para implementaciones en microcontroladores.
