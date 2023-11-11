@@ -12,7 +12,7 @@ En este repositorio encontrarás todo lo relacionado al taller de "*TinyML - El 
 
 - **Taller/**: Contiene los códigos de Python y Arduino que se utilizan en el taller, así como un notebook rescatando alguna documentación importante, recomendada y personalizada de algunos proyectos sobre el TinyML.
 
-- **Desafios**: Como parte de las dinámicas del BeePy, este taller cuenta con una serie de desafios interesantes para incentivar la participación, el pensamiento lógico y llevar un poco más allá lo que en este taller se imparte.
+- **Desafios/**: Como parte de las dinámicas del BeePy, este taller cuenta con una serie de desafios interesantes para incentivar la participación, el pensamiento lógico y llevar un poco más allá lo que en este taller se imparte.
 
 ## Requisitos importantes:
 
@@ -30,6 +30,6 @@ Junto con el entorno de desarrollo de Arduino, el taller necesita un entorno en 
 
 - El entorno de desarrollo [Anaconda](https://www.anaconda.com/download)
 
-- El entorno de programación [Visual%20Studio%20Code](https://code.visualstudio.com/download)
+- El entorno de programación [Visual Studio Code](https://code.visualstudio.com/download)
 
 
